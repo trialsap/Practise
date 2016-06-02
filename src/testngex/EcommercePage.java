@@ -9,7 +9,7 @@ public void Login(){
 }
 	@Test(priority=2)
 public void Search(){
-		System.out.println("Search");
+		System.out.println("Search........");
 }
 	@Test(priority=3)
 public void Logout(){
